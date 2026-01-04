@@ -1,3 +1,7 @@
+// LeetCode 1929: Concatenation of Array
+// Time Complexity: O(n)
+// Space Complexity: O(n)
+
 class Solution {
     public int[] getConcatenation(int[] nums) {
         int n = nums.length;
