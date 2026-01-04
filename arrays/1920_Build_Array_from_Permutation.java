@@ -1,3 +1,7 @@
+// LeetCode 1920: Build Array from Permutation
+// Time Complexity: O(n)
+// Space Complexity: O(n)
+
 class Solution {
     public int[] buildArray(int[] nums) {
         int n = nums.length;
