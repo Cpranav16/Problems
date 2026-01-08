@@ -1,6 +1,6 @@
-// LeetCode 121: Best Time to Buy and Sell Stock
-// Time Complexity: O(n)
-// Space Complexity: O(1)
+// LeetCode 1365. How Many Numbers Are Smaller Than the Current Number
+// Time: O(n)
+// Space: O(1) (fixed array of size 101)
 
 class Solution {
     public int[] smallerNumbersThanCurrent(int[] nums) {
