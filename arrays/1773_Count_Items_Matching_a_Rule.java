@@ -4,7 +4,7 @@
 
 class Solution {
     public int countMatches(List<List<String>> items, String ruleKey, String ruleValue) {
-        int index = 0; // index to check in each item
+        int index = 0; 
         if (ruleKey.equals("type")) {
             index = 0;
         } else if (ruleKey.equals("color")) {
